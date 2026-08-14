@@ -45,7 +45,7 @@ namespace Mizan.Profile
 
 ## 📊 GitHub Stats Summary
 
-![GitHub Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mizanur-Rahmann&theme=github_dark)
+![GitHub Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mizanu-rahman&theme=github_dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mizanur-Rahmann&theme=dark&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF&sideNums=00E5FF&currStreakLabel=00E5FF&sideLabels=C0C0C0&dates=C0C0C0)
 
@@ -59,7 +59,7 @@ namespace Mizan.Profile
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mizanur-Rahmann&theme=react-dark&bg_color=0D1117&color=00E5FF&line=00E5FF&point=C0C0C0&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mizanu-rahman&theme=react-dark&bg_color=0D1117&color=00E5FF&line=00E5FF&point=C0C0C0&hide_border=true)
 
 ---
 
