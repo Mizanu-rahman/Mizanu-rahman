@@ -47,7 +47,7 @@ namespace Mizan.Profile
 
 ![GitHub Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mizanu-rahman&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mizanu-rahman&show_icons=true&theme=dark&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff&border_color=00E5FF&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mizanu-Rahman&show_icons=true&theme=dark&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff&hide_border=true)
 ---
 
 ## 🐍 Swallowing My Contribution
